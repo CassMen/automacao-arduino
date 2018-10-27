@@ -3,9 +3,9 @@ Projetos de automação residencial com Arduino.
 
 
 ## Escadas Iluminadas
-https://www.youtube.com/watch?v=p79MFRNfi_8
+### [Vídeo](https://www.youtube.com/watch?v=p79MFRNfi_8)
 
-Componentes:
+### Componentes:
 - Arduino UNO
 - Fonte chaveada 12V 5A
 - Transistor Mosfet canal N IRF 530 
@@ -13,4 +13,5 @@ Componentes:
 - Fita LED 3528 branco frio
 - Cabos diversos
 
-Esquema:
+### Esquema:
+![](https://github.com/CassMen/automacao-arduino/blob/master/escadas-iluminadas/esquema.png)
